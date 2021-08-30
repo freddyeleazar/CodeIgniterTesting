@@ -1,0 +1,1 @@
+<p>La noticia ha sido creada.</p>
