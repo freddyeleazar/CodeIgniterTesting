@@ -1,1 +1,0 @@
-<p>Este es el about.</p>
